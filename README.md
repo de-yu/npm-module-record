@@ -11,13 +11,22 @@
 7. Axios 使用 ajax 連線
 8. Moment 處理時間的含式庫
 9. Xstate 基於限狀態機理論 建構的狀態管理工具
+10. Cypress 前端 e2e 測試工
+11. storybook ui library
+
 
 ### Vue
 
-1. Element Plus 一個 UI library
-2. Vuetify 一個 UI library
+1. Element Plus
+2. Vuetify
 3. Vuex
 4. Pinia
-5. 
+5. vue-i18n  多國語言套件
+6. vue-router
+
 
 ### React
+
+1. craco 覆蓋 react webpack 設定
+2. react-redux
+3. react-router-dom

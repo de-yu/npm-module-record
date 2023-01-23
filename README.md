@@ -30,3 +30,5 @@
 1. craco 覆蓋 react webpack 設定
 2. react-redux
 3. react-router-dom
+4. @reduxjs/toolkit
+5. redux-thunk

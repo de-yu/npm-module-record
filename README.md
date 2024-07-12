@@ -15,6 +15,12 @@
 11. storybook ui library
 12. rollup-plugin-visualizer rollup 和 vite 視覺化 bundle 大小
 13. webpack-bundle-analyzer webpack 視覺化 bundle 大小
+14. husky 觸發 git 動作
+15. conventional-changelog-cli 使用 commit message 建立 changelog
+
+### Vite
+
+1. vite-plugin-dts 建立 lib 專案時產生 typescript 用的 .d.ts 檔
 
 ### Vue
 
